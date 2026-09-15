@@ -90,6 +90,37 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-20 | 15/09/2026 | **Pierre Bouyer** | Directeur de Magasin — KIABI (Lille) | LinkedIn MP (1er degré) | Suivi de candidature : déjà postulé en ligne + CV déposé en magasin (sans citer Nicolas) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-21 | 15/09/2026 | **Robin Opigez** | Directeur magasin — Carrefour | LinkedIn MP (1er degré, connexion du 15/09) | Grande surface : besoin week-end + soirées, exactement sa dispo | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-22 | en continu | **MODÈLE réseau** | Contacts de Cléanne ayant eu un job étudiant | LinkedIn / WhatsApp | Fiche 25 : demande de contact + recommandation interne | ♻️ MODÈLE | — | — |
+| RC-23 | 15/09/2026 | **ADELINE DUTRY** | Directrice des opérations — McDonald's Greater Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-24 | 15/09/2026 | **JULIEN HULARD** | Directeur de restaurant — McDonald's Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-25 | 15/09/2026 | **ANTOINE MASSE** | Directeur de restaurant — McDonald's Tourcoing / Halluin | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-26 | 15/09/2026 | **TANGUY LECLERCQ** | BURGER KING France — Greater Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-27 | 15/09/2026 | **SÉBASTIEN DRUCBERT** | Directeur — McDonald's Central Service (hypermarché, Greater Lille) | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-28 | 15/09/2026 | **MÉLANIE DOIT** | Manager restauration (McDo 4850, ex-Burger King Lille) | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-29 | 15/09/2026 | **BERNARD BAUBY** | McDonald's Restaurants 4850 — Greater Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-30 | 15/09/2026 | **FRÉDÉRIC MARQUANT** | McDonald's France — Greater Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-31 | 15/09/2026 | **MAGALI DUCILLIER** | Responsable de département — Primark (région de Lille) | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-32 | 15/09/2026 | **STÉPHANE GAUCHER** | Ex-directeur Primark Lille (réseau Primark) | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-33 | 15/09/2026 | **Starbucks** | Lille / Euralille / gares | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-34 | 15/09/2026 | **KFC** | Lille / Ronchin | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-35 | 15/09/2026 | **Domino's Pizza** | Lille / Villeneuve-d'Ascq | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-36 | 15/09/2026 | **Five Guys** | Lille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-37 | 15/09/2026 | **Columbus Café & Co** | Lille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-38 | 15/09/2026 | **Decathlon** | Kipstadium / Btwin Village / Villeneuve-d'Ascq | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-39 | 15/09/2026 | **H&M** | Euralille / rue de Béthune | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-40 | 15/09/2026 | **Zara / Inditex** | Euralille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-41 | 15/09/2026 | **Bershka / Pull&Bear / Stradivarius** | Euralille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-42 | 15/09/2026 | **Mango / Pimkie / Jennyfer / Promod** | Euralille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-43 | 15/09/2026 | **New Yorker** | Lillenium | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-44 | 15/09/2026 | **Printemps Lille** | corners MAJE / GUESS / APM | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-45 | 15/09/2026 | **Foot Locker / Courir / SNIPES** | Euralille & rue de Béthune | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-46 | 15/09/2026 | **UGC Ciné Cité / Pathé / Kinepolis** | Lille | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-47 | 15/09/2026 | **Zénith de Lille / Lille Grand Palais** |  | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-48 | 15/09/2026 | **LOSC** | Decathlon Arena / Stade Pierre-Mauroy (via Actual Events) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-49 | 15/09/2026 | **Hôtellerie** | Ibis / Novotel / Mercure / B&B (Lille, Euralille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-50 | 15/09/2026 | **Université de Lille** | emploi étudiant (BU, accueil, tutorat) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-51 | 15/09/2026 | **Proximité** | Carrefour City / Franprix / Monop' (Lille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+
+**Décision Cléanne (15/09) :** pas de plafond journalier — on pousse la vague jusqu'à 50 envois.
 
 **Modèles réutilisables :** fiche 25 = demande de contact / recommandation à un contact du réseau qui a eu un job étudiant.
 
