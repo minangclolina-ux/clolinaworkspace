@@ -87,7 +87,7 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-17 | 15/09/2026 | **Zineb** | Ex-CDI Primark & JD Sport | WhatsApp / SMS / LinkedIn | Demande de contact interne | ⏳ À ENVOYER | — | — |
 | RC-18 | dès le contact | **Hélène Patou-Frémy** | RH retail — Primark Lille | LinkedIn MP | Recommandée par Zineb | ⏳ ATTENTE CONTACT | — | — |
 | RC-19 | dès le contact | Manager JD Sports | JD Sports Lille (rue de Béthune / Euralille) | LinkedIn MP | Recommandé par Zineb | ⏳ ATTENTE CONTACT | — | — |
-| RC-20 | 15/09/2026 | **Pierre Bouyer** | Directeur de Magasin — KIABI (Lille) | LinkedIn MP (1er degré) | Nicolas étant en congé, on passe au directeur | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-20 | 15/09/2026 | **Pierre Bouyer** | Directeur de Magasin — KIABI (Lille) | LinkedIn MP (1er degré) | Suivi de candidature : déjà postulé en ligne + CV déposé en magasin (sans citer Nicolas) | ⏳ À ENVOYER | 20-21/09 | — |
 
 **Volume réseau Cléanne :** 82 relations → 10 P1/P2 contactées en J1, 11 P2 en J2, ~16 P3 en J3, le reste (étudiants) en vague de veille.
 
