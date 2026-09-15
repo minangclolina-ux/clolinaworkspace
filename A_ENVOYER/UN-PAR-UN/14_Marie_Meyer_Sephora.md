@@ -11,7 +11,7 @@ Bonjour Marie,
 
 Je me permets de vous ecrire parce que j'ai depose mon CV en magasin il y a environ un mois : je voulais faire un suivi, je suis toujours tres interesse par un poste chez Sephora.
 
-Je suis etudiante en L3 Economie-Gestion a l'Universite de Lille et je cherche un job etudiant d'environ 20h par semaine. Concretement, je suis disponible le mercredi apres-midi, le samedi toute la journee et pendant les vacances universitaires, et je peux renforcer l'equipe des maintenant pour la periode de fin d'annee.
+Je suis etudiante en L3 Economie-Gestion a l'Universite de Lille et je cherche un job etudiant d'environ 20h par semaine. Concretement, je suis libre le week-end (samedi et dimanche), ainsi que les apres-midis et soirees en semaine selon vos besoins : je peux aller jusqu'a 20h par semaine, et renforcer l'equipe des maintenant pour la periode de fin d'annee.
 
 J'ai coordonne des equipes et des evenements en association pendant deux ans : l'accueil client, le rythme soutenu et le travail en equipe ne me font pas peur.
 
@@ -24,7 +24,7 @@ Cleanne Minang · 07 45 42 93 53
 ## Version courte (si tu preferes aller a l'essentiel)
 
 ```text
-Bonjour Marie, j'ai depose mon CV en magasin il y a un mois et je me permets de faire un suivi : je suis toujours interesse par un job etudiant chez Sephora, environ 20h/semaine, disponible le mercredi apres-midi, le samedi et pendant les vacances. Y a-t-il un besoin en ce moment ? Cleanne Minang · 07 45 42 93 53
+Bonjour Marie, j'ai depose mon CV en magasin il y a un mois et je me permets de faire un suivi : je suis toujours interesse par un job etudiant chez Sephora, environ 20h/semaine, libre le week-end (samedi et dimanche) et les apres-midis / soirees en semaine. Y a-t-il un besoin en ce moment ? Cleanne Minang · 07 45 42 93 53
 ```
 
 ## Pourquoi ce message marche

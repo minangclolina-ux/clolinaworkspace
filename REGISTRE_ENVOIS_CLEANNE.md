@@ -4,6 +4,7 @@
 **Objectif :** job étudiant / stage / CDD / temps partiel 20-26 h/semaine — 800-900 €/mois — Lille ou remote
 **Source de vérité :** kit de prospection remis le 14/09/2026 (contenu intégralement extrait et exploité ; les PDF du dépôt ont été supprimés à la demande de Cléanne)
 **Démarrage :** 15/09/2026
+**Disponibilité :** week-end (samedi + dimanche) libre · après-midis et soirées en semaine selon les besoins · jusqu'à 20h/semaine · démarrage immédiat jusqu'à fin juin 2027
 **Émetteur kit :** Calvin Minang (+33 7 52 97 58 09) · **Émettrice réseau & cibles :** Cléanne Minang (+33 7 45 42 93 53) — **les messages sont écrits pour Cléanne**
 **Profil :** https://www.linkedin.com/in/cl%C3%A9anne-minang-95772a2b0/
 

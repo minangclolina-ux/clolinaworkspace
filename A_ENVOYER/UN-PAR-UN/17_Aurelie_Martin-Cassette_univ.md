@@ -11,7 +11,7 @@ Bonjour Madame Martin-Cassette,
 
 Merci pour la mise en relation. Je suis etudiante en L3 Economie-Gestion a l'Universite de Lille et je prepare les concours AST pour viser le conseil.
 
-Je me permets de vous ecrire parce que je cherche un job etudiant d'environ 20h par semaine : appui administratif, bibliotheque, tutorat ou coordination — j'ai coordonne des projets et des equipes en association pendant deux ans, donc ce type de mission me correspond bien.
+Je me permets de vous ecrire parce que je cherche un job etudiant d'environ 20h par semaine (libre le week-end (samedi et dimanche) et les apres-midis / soirees en semaine) : appui administratif, bibliotheque, tutorat ou coordination — j'ai coordonne des projets et des equipes en association pendant deux ans, donc ce type de mission me correspond bien.
 
 Auriez-vous une piste, un service a contacter a l'universite, ou une personne a me recommander ?
 

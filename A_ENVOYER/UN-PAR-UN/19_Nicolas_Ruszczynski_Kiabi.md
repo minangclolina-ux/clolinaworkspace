@@ -12,7 +12,7 @@ Bonjour Nicolas,
 
 Je suis etudiante en L3 Economie-Gestion a l'Universite de Lille et je cherche un job etudiant d'environ 20h par semaine.
 
-Je me permets de vous ecrire parce que Kiabi recrute regulierement des etudiants en temps partiel, et que je suis disponible le mercredi apres-midi, le samedi toute la journee et pendant les vacances universitaires. Je peux demarrer rapidement et m'engager sur toute l'annee universitaire.
+Je me permets de vous ecrire parce que Kiabi recrute regulierement des etudiants en temps partiel, et que je suis libre le week-end (samedi et dimanche), ainsi que les apres-midis et soirees en semaine selon vos besoins : je peux aller jusqu'a 20h par semaine. Je peux demarrer rapidement et m'engager sur toute l'annee universitaire.
 
 J'ai coordonne des equipes et des evenements en association pendant deux ans : l'accueil client, le rythme soutenu et le travail en equipe ne me font pas peur.
 

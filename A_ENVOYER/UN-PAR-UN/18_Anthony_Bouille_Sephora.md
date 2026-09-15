@@ -11,7 +11,7 @@ Bonjour Anthony,
 
 Je me permets de vous contacter parce que je cherche un job etudiant d'environ 20h par semaine et que j'ai une vraie appetence pour l'univers de la beaute et le conseil client.
 
-J'ai depose mon CV au magasin Sephora de Lille il y a environ un mois et je suis toujours tres interesse : je suis disponible le mercredi apres-midi, le samedi et pendant les vacances universitaires, et je peux renforcer une equipe des maintenant pour la periode des fetes.
+J'ai depose mon CV au magasin Sephora de Lille il y a environ un mois et je suis toujours tres interesse : je suis libre le week-end (samedi et dimanche), ainsi que les apres-midis et soirees en semaine selon vos besoins : je peux aller jusqu'a 20h par semaine, et renforcer une equipe des maintenant pour la periode des fetes.
 
 Auriez-vous un magasin du secteur qui recrute en ce moment, ou une personne a qui m'adresser ?
 

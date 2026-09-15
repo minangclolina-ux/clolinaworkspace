@@ -11,7 +11,7 @@ Bonjour Asmaa,
 
 Je me permets de vous contacter parce que je cherche un job etudiant d'environ 20h par semaine sur la metropole lilloise, et Adecco place beaucoup d'etudiants sur ce type de missions.
 
-Je suis en L3 Economie-Gestion a l'Universite de Lille. Je suis disponible le mercredi apres-midi, le samedi et pendant les vacances universitaires, a l'aise sur l'accueil, la gestion de stock, l'administratif et la coordination d'equipe (deux ans de coordination de projets en association). Je peux demarrer rapidement, en contrat de travail salarie.
+Je suis en L3 Economie-Gestion a l'Universite de Lille. Libre le week-end (samedi et dimanche) et les apres-midis / soirees en semaine, a l'aise sur l'accueil, la gestion de stock, l'administratif et la coordination d'equipe (deux ans de coordination de projets en association). Je peux demarrer rapidement, en contrat de travail salarie.
 
 Est-ce que je peux passer a votre agence m'inscrire, ou vous envoyer mon CV ?
 

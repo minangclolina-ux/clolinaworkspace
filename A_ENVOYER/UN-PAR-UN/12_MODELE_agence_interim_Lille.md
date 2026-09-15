@@ -11,7 +11,7 @@ Agences présentes à Lille : Adecco, Manpower, Randstad, Crit, Start People, Sy
 ```text
 Bonjour [Prénom],
 
-Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche des missions d'intérim ou un CDD d'environ 20h par semaine (ou des missions ponctuelles le mercredi, le samedi et pendant les vacances universitaires).
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche des missions d'intérim ou un CDD d'environ 20h par semaine (ou des missions ponctuelles le week-end, en soirée ou les après-midis en semaine).
 
 Je suis disponible immédiatement, à l'aise sur l'administratif, l'accueil, la gestion de stock et la coordination d'équipe. J'ai un titre de séjour étudiant qui m'autorise à travailler comme salariée (déclaration employeur faite par l'agence).
 

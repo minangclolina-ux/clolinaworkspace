@@ -11,7 +11,7 @@ Bonjour Meryll,
 
 Je suis etudiante en L3 Economie-Gestion a l'Universite de Lille et je cherche un job etudiant d'environ 20h par semaine.
 
-Je me permets de vous ecrire parce que je voudrais travailler dans la vente et que je suis disponible le mercredi apres-midi, le samedi toute la journee et pendant les vacances universitaires : je peux renforcer l'equipe des maintenant pour la periode de fin d'annee.
+Je me permets de vous ecrire parce que je voudrais travailler dans la vente et que je suis libre le week-end (samedi et dimanche), ainsi que les apres-midis et soirees en semaine selon vos besoins : je peux aller jusqu'a 20h par semaine : je peux renforcer l'equipe des maintenant pour la periode de fin d'annee.
 
 J'ai coordonne des equipes et des evenements en association pendant deux ans, donc l'accueil client et le rythme soutenu ne me font pas peur.
 

@@ -11,7 +11,7 @@ Bonjour Claude,
 
 Je me permets de vous contacter parce que je cherche un job étudiant d'environ 20 à 25h par semaine sur la métropole lilloise. Je suis en L3 Économie-Gestion à l'Université de Lille et je prépare les concours AST pour viser le conseil.
 
-Mon profil : coordinatrice de projets et de productions audiovisuelles en association pendant deux ans, à l'aise sur l'administratif, la gestion documentaire, le suivi de plannings et le support d'équipe. Je suis disponible dès maintenant, jusqu'à fin juin 2027, en contrat salarié (CDD, mission d'intérim ou job étudiant).
+Mon profil : coordinatrice de projets et de productions audiovisuelles en association pendant deux ans, à l'aise sur l'administratif, la gestion documentaire, le suivi de plannings et le support d'équipe. Libre le week-end (samedi et dimanche) et les après-midis / soirées en semaine, disponible dès maintenant jusqu'à fin juin 2027, en contrat salarié (CDD, mission d'intérim ou job étudiant).
 
 Comme vous travaillez sur l'acquisition de talents, auriez-vous une mission de ce format dans vos clients, ou un conseil à me donner sur la façon de me positionner ?
 
