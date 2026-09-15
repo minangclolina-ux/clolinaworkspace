@@ -78,6 +78,10 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-13 | 15/09/2026 | **Meryll Poteaux** | Directrice de magasin — Celio | LinkedIn MP (1er degré) | Décideuse directe, retail | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-15 | en réserve | Anthony Bouillé | Directeur Régional SEPHORA (LVMH) | LinkedIn MP (1er degré) | À envoyer SEULEMENT si Marie Meyer ne répond pas avant le 21/09 | 🔒 EN ATTENTE | — | — |
 
 **Volume réseau Cléanne :** 82 relations → 10 P1/P2 contactées en J1, 11 P2 en J2, ~16 P3 en J3, le reste (étudiants) en vague de veille.
 
@@ -122,7 +126,7 @@ Verrouillés dès qu'un envoi est fait (plus jamais recontactés, sauf relance u
 
 **Kit (émis par Calvin) :** Jean-Marie CHUEPO · Thomas Langlois · Florence Oudin · Maxime Fontaine · Tomasz Hryniuk · Benjamin Pelletier · Charles Fourquin · Selma Mamouri · Grégoire Pelletier · Trâm-Anh Tran
 
-**Réseau Cléanne (émis par Cléanne) :** Xavier Chojnicki · Patrick Leleu · Amna Zoghlami · Roman Delbare · Louis Favata · Hamza Tadir · Claude Fernandes · Vincent Duwicquet · Robin Jablonski · Alexandre Pessaire · **Marie Meyer (Sephora)**
+**Réseau Cléanne (émis par Cléanne) :** Xavier Chojnicki · Patrick Leleu · Amna Zoghlami · Roman Delbare · Louis Favata · Hamza Tadir · Claude Fernandes · Vincent Duwicquet · Robin Jablonski · Alexandre Pessaire · **Marie Meyer (Sephora)** · **Asmaa Machkour (Adecco)** · **Meryll Poteaux (Celio)** · **Aurélie Martin-Cassette (Univ. Lille)**
 
 > À mettre à jour après CHAQUE envoi. Vérifier cette liste avant tout envoi.
 
@@ -139,6 +143,7 @@ BNP Paribas Cardif (PACK100 #53) et BNP Paribas Asset Management (PACK100 #60) s
 |------|--------|----------|----------|----------|-------|
 | J1 — 15/09 (kit, Calvin) | 0 / 10 | 0 | 0 | 0 | 0 |
 | J1 — 15/09 (réseau, Cléanne) | 0 / 10 | 0 | 0 | 0 | 0 |
+| J1 — 15/09 (nouvelles relations) | 0 / 4 | 0 | 0 | 0 | 0 |
 | J2 — 16/09 | 0 / 10 | 0 | 0 | 0 | 0 |
 | J3 — 17/09 | 0 / 10 | 0 | 0 | 0 | 0 |
 
