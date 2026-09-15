@@ -3,7 +3,7 @@
 **Profil :** https://www.linkedin.com/in/meryll-poteaux-113003199/
 **Canal :** LinkedIn, message privé (relation 1er degré)
 
-**Contexte :** Directrice de magasin = c'est elle qui embauche. Même profil que Marie (Sephora) : tu donnes ta disponibilité avant toute chose.
+**Contexte :** Directrice de magasin = c'est elle qui embauche. **CV déposé au Celio d'Euralille il y a ~1 mois** → ce message est une relance, pas une approche froide : c'est le meilleur taux de réponse.
 
 ## Message — copie-colle tel quel
 
@@ -12,7 +12,7 @@ Bonjour Meryll,
 
 Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
 
-Je me permets de vous écrire parce que je voudrais travailler dans la vente, et que je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins : je peux aller jusqu'à 20h par semaine et renforcer l'équipe dès maintenant pour la période de fin d'année.
+J'ai déposé mon CV au magasin Celio d'Euralille il y a environ un mois, et je me permets de vous écrire pour faire un suivi : je suis toujours très intéressée, d'autant que je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins : je peux aller jusqu'à 20h par semaine et renforcer l'équipe dès maintenant pour la période de fin d'année.
 
 J'ai coordonné des équipes et des événements en association pendant deux ans, donc l'accueil client et le rythme soutenu ne me font pas peur.
 

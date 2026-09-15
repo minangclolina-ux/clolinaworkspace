@@ -3,14 +3,14 @@
 **Profil :** https://www.linkedin.com/in/marie-meyer-2a3801144/
 **Canal :** LinkedIn, message privé (relation 1er degré)
 
-**Contexte :** CV déposé en physique il y a ~1 mois au magasin Sephora. C'est une **relance d'une démarche déjà faite**, pas un message froid. Elle est la bonne personne : c'est elle qui décide des embauches du magasin.
+**Contexte :** CV déposé en physique il y a ~1 mois au magasin Sephora **d'Euralille**. C'est une **relance d'une démarche déjà faite**, pas un message froid. Elle est la bonne personne : c'est elle qui décide des embauches du magasin.
 
 ## Message — copie-colle tel quel
 
 ```text
 Bonjour Marie,
 
-Je me permets de vous écrire parce que j'ai déposé mon CV en magasin il y a environ un mois : je voulais faire un suivi, je suis toujours très intéressée par un poste chez Sephora.
+Je me permets de vous écrire parce que j'ai déposé mon CV au magasin Sephora d'Euralille il y a environ un mois : je voulais faire un suivi, je suis toujours très intéressée par un poste chez vous.
 
 Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine. Concrètement, je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins : je peux aller jusqu'à 20h par semaine, et renforcer l'équipe dès maintenant pour la période de fin d'année.
 
