@@ -1,0 +1,129 @@
+# REGISTRE_ENVOIS_CLEANNE.md
+
+**Candidate :** Cléanne Minang — L3 Économie-Gestion, Université de Lille — projet AST Top 5 & Conseil
+**Objectif :** job étudiant / stage / CDD / temps partiel 20-26 h/semaine — 800-900 €/mois — Lille ou remote
+**Source de vérité :** kit de prospection remis le 14/09/2026 (contenu intégralement extrait et exploité ; les PDF du dépôt ont été supprimés à la demande de Cléanne)
+**Démarrage :** 15/09/2026
+**Émetteur réseau :** Calvin Minang (+33 7 52 97 58 09) · **Émettrice cibles entreprises :** Cléanne Minang (+33 7 45 42 93 53)
+**Profil :** https://www.linkedin.com/in/cl%C3%A9anne-minang-95772a2b0/
+
+---
+
+## 1. RÈGLES (rappel opérationnel)
+
+| N° | Règle |
+|----|-------|
+| **R0** | **Priorité absolue** : recontacter sous 7 j toute personne ayant manifesté de l'intérêt, avec un message PERSONNALISÉ apportant du neuf. Passe avant toute vague froide. |
+| R1 | Un registre = une seule source de vérité. Chaque envoi tracé ici (date, contact, canal, n° de message). |
+| R2 | **Envoyé = verrouillé à vie.** Jamais 2 messages à la même personne. Vérifier ce registre AVANT chaque envoi. |
+| R3 | Une personne = une seule table = un seul canal (pas de double canal). |
+| R4 | Une seule relance, à J+5/J+6, avec un élément nouveau. Puis « sans réponse » et on passe. |
+| R5 | Les contacts servent **uniquement** la prospection de Cléanne : jamais mélangés à une autre opération. |
+| R6 | Ton : étudiante simple, bosseuse, honnête. Aucun jargon finance. On ne réécrit pas les messages du kit, on remplace les placeholders. |
+| R7 | Toute réponse est tracée ici. Offre douteuse (formation payante, MLM, « investissement ») = refus poli + trace. |
+| R8 | Cadence : **10 envois/jour max** + traitement des réponses + registre à jour chaque soir. |
+
+---
+
+## 2. LISTE « INTÉRÊT » / NURTURE (RÈGLE 0)
+
+| # | Contact | Nature de l'intérêt | Dernier contact | Prochain recontact | Statut |
+|---|---------|---------------------|-----------------|--------------------|--------|
+| 1 | **Jean-Marie CHUEPO** — Directeur Coordinateur, Institution Saint Jean (Hauts-de-France) · [LinkedIn](https://www.linkedin.com/in/jean-marie-chuepo-5456b4168/) | **A pris le CV de Cléanne chez Calvin** — intérêt manifesté, relation directe | avant le 15/09/2026 | **15/09/2026 — ENVOI J1** | ✅ MESSAGE PRÊT |
+| 2 | **Thomas Langlois** — Consultant & Coach Carrière | Coaching déjà donné, relation chaleureuse | antérieur au 14/09/2026 | **15/09/2026 — ENVOI J1** (relance douce 29/09) | ✅ MESSAGE PRÊT |
+
+> Tout nouvel intérêt (réponse positive, demande de CV, proposition d'appel, redirection, coup de pouce) est ajouté ici immédiatement avec l'étiquette `INTÉRÊT` / `RECONTACT-INTÉRÊT`.
+> Intérêt sans poste ouvert → liste **nurture** : reprise de contact toutes les 4 à 6 semaines avec une nouveauté.
+
+---
+
+## 3. JOURNAL DES ENVOIS (append-only)
+
+| ID | Date | Contact | Structure / Poste | Canal | Message | Statut | Relance | Réponse |
+|----|------|---------|-------------------|-------|---------|--------|---------|---------|
+| J1-01 | 15/09/2026 | **Jean-Marie CHUEPO** | Institution Saint Jean — Directeur Coordinateur | LinkedIn MP | recontact personnalisé (INTÉRÊT) | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-02 | 15/09/2026 | **Thomas Langlois** | Consultant & Coach Carrière | LinkedIn MP | recontact personnalisé (INTÉRÊT) | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-03 | 15/09/2026 | Florence Oudin | FinStart — Fondatrice & CEO | LinkedIn MP | PACK100 #26 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-04 | 15/09/2026 | Maxime Fontaine | Decathlon — Trésorerie & Opérations | LinkedIn MP | TOP20 #1 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-05 | 15/09/2026 | Tomasz Hryniuk | Lesaffre — Corporate Treasury | LinkedIn MP | TOP20 #2 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-06 | 15/09/2026 | Benjamin Pelletier | Bouygues Construction — FO Treasurer | LinkedIn MP | TOP20 #3 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-07 | 15/09/2026 | Charles Fourquin | Julius Baer Genève — Wealth Management | LinkedIn MP | TOP20 #4 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-08 | 15/09/2026 | Selma Mamouri | Deutsche Bank Paris — Institutional Coverage | LinkedIn MP | TOP20 #5 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-09 | 15/09/2026 | Grégoire Pelletier | BNP Paribas CIB — Asset Finance | LinkedIn MP | TOP20 #6 | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-10 | 15/09/2026 | Trâm-Anh Tran | BNP Paribas — Recherche Marchés | LinkedIn MP | TOP20 #7 | ⏳ À ENVOYER | 20-21/09 | — |
+
+**Légende :** ⏳ À ENVOYER · ✅ ENVOYÉ · 💬 RÉPONSE · 🔁 RELANCÉ · ❌ SANS RÉPONSE · 🚫 CLASSÉ
+
+### Réponses reçues
+
+| Date | Contact | Contenu | Classement | Action / délai |
+|------|---------|---------|------------|----------------|
+| — | — | — | — | — |
+
+---
+
+## 4. PROCHAINS BATCHS
+
+### J2 — 16/09/2026 (TOP 20 #8 à #17)
+
+| Contact | Structure / Poste | Message |
+|---------|-------------------|---------|
+| Mariem Abbes | BNP Paribas — Desk Marchés & Corporate | TOP20 #8 |
+| Léo Bengorine | BNP Paribas — Support Opérationnel & Données | TOP20 #9 |
+| Romain Espitaille | BNP Paribas — Coverage Banques & Intermédiaires | TOP20 #10 |
+| Olivier Huot | BNP Paribas — Coverage Assurances | TOP20 #11 |
+| Jean-Loïc Beibro | Société Générale — Support Opérations | TOP20 #12 |
+| Tess Menasce | Société Générale — Front Office & Operations | TOP20 #13 |
+| Valentine Issa | Société Générale — Sales & Relations Clients | TOP20 #14 |
+| Yanis Zakhama | Société Générale — Support Opérationnel | TOP20 #15 |
+| Maxime Crémieux | Natixis — Coverage Corporate Banking Large Caps | TOP20 #16 |
+| Hugo Laval | Aurel BGC — Corporate Finance & Operations | TOP20 #17 |
+
+### J3 — 17/09/2026
+TOP 20 #18 (Lucas Sornin, Euronext) + #19 (Jules Wahiche) + #20 (Téo Despretz) → **fin du TOP 20**
+Puis PACK MASTER : Nicolas Wilfart (PwC Lille), Maroua Talmoudi (Auchan RH), Aurelien Blondiaux (BNP Lille), Clément Herlemme (RAF), Baptiste Bireloze (Kaizen Partners), Pierre Dallenne (Saint Paul), Eden Gourcerol (recrutement étudiants internationaux)
+
+### Ordre de déroulement (index du kit)
+1. TOP 20 relations 1er degré *(J1 → J3)*
+2. PACK MASTER nouveaux contacts 1er degré — annoncé 55, **30 présents** *(J3 → J5)*
+3. PACK 20 cibles Lille startups & cabinets
+4. PACK 25 cibles RH / conseil / startups / social media
+5. Sélection 30 boîtes de recrutement
+6. PACK 50 cibles dédiées (messages froids)
+7. PACK 50 nominatifs — **20 doublons du TOP 20** → ~30 contacts réellement nouveaux
+8. PACK 100 chasse (réserve)
+
+---
+
+## 5. ANTI-DOUBLON — CONTACTS VERROUILLÉS
+
+Verrouillés dès qu'un envoi est fait (plus jamais recontactés, sauf relance unique J+5/J+6) :
+
+Jean-Marie CHUEPO · Thomas Langlois · Florence Oudin · Maxime Fontaine · Tomasz Hryniuk · Benjamin Pelletier · Charles Fourquin · Selma Mamouri · Grégoire Pelletier · Trâm-Anh Tran
+
+> À mettre à jour après CHAQUE envoi. Vérifier cette liste avant tout envoi.
+
+### Doublons internes du kit (1 seul envoi par personne)
+
+TOP 20 et PACK 50 nominatifs partagent **20 contacts identiques** (Maxime Fontaine, Tomasz Hryniuk, Benjamin Pelletier, Charles Fourquin, Selma Mamouri, Grégoire Pelletier, Trâm-Anh Tran, Mariem Abbes, Léo Bengorine, Romain Espitaille, Olivier Huot, Jean-Loïc Beibro, Tess Menasce, Valentine Issa, Yanis Zakhama, Maxime Crémieux, Hugo Laval, Lucas Sornin, Jules Wahiche, Téo Despretz). Tomasz Hryniuk et Maxime Fontaine apparaissent aussi dans le PACK 100, Benjamin Pelletier en PACK100 #76.
+BNP Paribas Cardif (PACK100 #53) et BNP Paribas Asset Management (PACK100 #60) sont deux entités distinctes : 1 envoi chacune.
+
+---
+
+## 6. TABLEAU DE BORD
+
+| Jour | Envois | Réponses | Intérêts | Relances | Cumul |
+|------|--------|----------|----------|----------|-------|
+| J1 — 15/09 | 0 / 10 | 0 | 0 | 0 | 0 |
+| J2 — 16/09 | 0 / 10 | 0 | 0 | 0 | 0 |
+| J3 — 17/09 | 0 / 10 | 0 | 0 | 0 | 0 |
+
+**Volume disponible après dédoublonnage :** ~175 personnes + ~112 structures ≈ 287 cibles → ~29 jours à 10 envois/jour.
+
+---
+
+## 7. POINTS OUVERTS
+
+1. 🟠 Le recontact Thomas Langlois contient des placeholders `[ ]` à compléter (élément neuf obligatoire, R0).
+2. 🟠 Le recontact Jean-Marie Chuepo contient un placeholder `[DATE]` de disponibilité.
+3. 🟠 Le kit annonce 55 contacts dans le PACK MASTER : 30 seulement y figurent.
