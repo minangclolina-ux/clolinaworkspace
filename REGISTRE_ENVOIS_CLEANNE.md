@@ -77,6 +77,7 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-08 | 15/09/2026 | Vincent Duwicquet | Professeur — resp. M2 DEIET — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ⏳ À ENVOYER | 20-21/09 | — |
 
 **Volume réseau Cléanne :** 82 relations → 10 P1/P2 contactées en J1, 11 P2 en J2, ~16 P3 en J3, le reste (étudiants) en vague de veille.
 
@@ -121,7 +122,7 @@ Verrouillés dès qu'un envoi est fait (plus jamais recontactés, sauf relance u
 
 **Kit (émis par Calvin) :** Jean-Marie CHUEPO · Thomas Langlois · Florence Oudin · Maxime Fontaine · Tomasz Hryniuk · Benjamin Pelletier · Charles Fourquin · Selma Mamouri · Grégoire Pelletier · Trâm-Anh Tran
 
-**Réseau Cléanne (émis par Cléanne) :** Xavier Chojnicki · Patrick Leleu · Amna Zoghlami · Roman Delbare · Louis Favata · Hamza Tadir · Claude Fernandes · Vincent Duwicquet · Robin Jablonski · Alexandre Pessaire
+**Réseau Cléanne (émis par Cléanne) :** Xavier Chojnicki · Patrick Leleu · Amna Zoghlami · Roman Delbare · Louis Favata · Hamza Tadir · Claude Fernandes · Vincent Duwicquet · Robin Jablonski · Alexandre Pessaire · **Marie Meyer (Sephora)**
 
 > À mettre à jour après CHAQUE envoi. Vérifier cette liste avant tout envoi.
 
