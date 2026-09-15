@@ -41,7 +41,7 @@
 
 | ID | Date | Contact | Structure / Poste | Canal | Message | Statut | Relance | Réponse |
 |----|------|---------|-------------------|-------|---------|--------|---------|---------|
-| J1-01 | 15/09/2026 | **Jean-Marie CHUEPO** | Institution Saint Jean — Directeur Coordinateur | LinkedIn MP | recontact personnalisé (INTÉRÊT) | ⏳ À ENVOYER | 20-21/09 | — |
+| J1-01 | 15/09/2026 | **Jean-Marie CHUEPO** | Institution Saint Jean — Directeur Coordinateur | LinkedIn « Message gratuit » | note 293 car. + message long après acceptation | ⏳ À ENVOYER | 20-21/09 | — |
 | J1-02 | 15/09/2026 | **Thomas Langlois** | Consultant & Coach Carrière | LinkedIn MP | recontact personnalisé (INTÉRÊT) | ⏳ À ENVOYER | 20-21/09 | — |
 | J1-03 | 15/09/2026 | Florence Oudin | FinStart — Fondatrice & CEO | LinkedIn MP | PACK100 #26 | ⏳ À ENVOYER | 20-21/09 | — |
 | J1-04 | 15/09/2026 | Maxime Fontaine | Decathlon — Trésorerie & Opérations | LinkedIn MP | TOP20 #1 | ⏳ À ENVOYER | 20-21/09 | — |
