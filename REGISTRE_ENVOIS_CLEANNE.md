@@ -84,6 +84,9 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-15 | en réserve | Anthony Bouillé | Directeur Régional SEPHORA (LVMH) | LinkedIn MP (1er degré) | À envoyer SEULEMENT si Marie Meyer ne répond pas avant le 21/09 | 🔒 EN ATTENTE | — | — |
 | RC-16 | 15/09/2026 | **Nicolas Ruszczynski** | Assistant Co-leader — Kiabi Village | LinkedIn MP (1er degré) | Kiabi fait des CDI étudiants 13h/16h + CDD 25h | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-17 | 15/09/2026 | **Zineb** | Ex-CDI Primark & JD Sport | WhatsApp / SMS / LinkedIn | Demande de contact interne | ⏳ À ENVOYER | — | — |
+| RC-18 | dès le contact | **Hélène Patou-Frémy** | RH retail — Primark Lille | LinkedIn MP | Recommandée par Zineb | ⏳ ATTENTE CONTACT | — | — |
+| RC-19 | dès le contact | Manager JD Sports | JD Sports Lille (rue de Béthune / Euralille) | LinkedIn MP | Recommandé par Zineb | ⏳ ATTENTE CONTACT | — | — |
 
 **Volume réseau Cléanne :** 82 relations → 10 P1/P2 contactées en J1, 11 P2 en J2, ~16 P3 en J3, le reste (étudiants) en vague de veille.
 
