@@ -1,25 +1,31 @@
 # Asmaa MACHKOUR — Responsable recrutement — Adecco France
 
 **Profil :** https://www.linkedin.com/in/asmaa-m-7692aa1a7/
-**Canal :** LinkedIn, message prive (relation 1er degre)
-**Contexte :** **La plus rentable des cinq.** Une responsable recrutement Adecco voit passer tous les besoins en interim/CDD de la metropole — et l'interim, c'est du salariat, donc compatible avec ton titre de sejour. C'est aussi le chemin le plus court vers un premier salaire.
+**Canal :** LinkedIn, message privé (relation 1er degré)
+
+**Contexte :** **La plus rentable.** Une responsable recrutement Adecco voit passer tous les besoins en intérim/CDD de la métropole, et l'intérim c'est du salariat — donc compatible avec ton titre de séjour. C'est aussi le chemin le plus court vers un premier salaire.
 
 ## Message — copie-colle tel quel
 
 ```text
 Bonjour Asmaa,
 
-Je me permets de vous contacter parce que je cherche un job etudiant d'environ 20h par semaine sur la metropole lilloise, et Adecco place beaucoup d'etudiants sur ce type de missions.
+Je me permets de vous contacter parce que je cherche un job étudiant d'environ 20h par semaine sur la métropole lilloise, et Adecco place beaucoup d'étudiants sur ce type de missions.
 
-Je suis en L3 Economie-Gestion a l'Universite de Lille. Libre le week-end (samedi et dimanche) et les apres-midis / soirees en semaine, a l'aise sur l'accueil, la gestion de stock, l'administratif et la coordination d'equipe (deux ans de coordination de projets en association). Je peux demarrer rapidement, en contrat de travail salarie.
+Je suis en L3 Économie-Gestion à l'Université de Lille. Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon les besoins, et à l'aise sur l'accueil, la gestion de stock, l'administratif et la coordination d'équipe (deux ans de coordination de projets en association). Je peux démarrer rapidement, en contrat de travail salarié.
 
-Est-ce que je peux passer a votre agence m'inscrire, ou vous envoyer mon CV ?
+Est-ce que je peux passer à votre agence m'inscrire, ou vous envoyer mon CV ?
 
 Bien cordialement,
-Cleane Minang · 07 45 42 93 53
+Cléanne Minang · 07 45 42 93 53
 ```
 
-## Apres l'envoi
-- Cocher dans `REGISTRE_ENVOIS_CLEANNE.md` (section 3 bis).
-- Pas de reponse → **une seule** relance a J+5/J+6.
-- Reponse positive → classement `INTERET` + suivi sous 7 jours.
+## Notes
+- Demande **le passage en agence** : c'est là que tout se joue, ils te mettent dans la liste des « disponibles tout de suite ».
+- Apporte CV + titre de séjour + RIB + carte Vitale.
+- Précise « missions étudiant » : mise en rayon, inventaires, événementiel, restauration, accueil.
+
+## Après l'envoi
+- Cocher dans `REGISTRE_ENVOIS_CLEANNE.md` (RC-12).
+- Pas de réponse → **une seule** relance à J+5/J+6 (20-21/09).
+- Réponse positive → classement `INTÉRÊT` + suivi sous 7 jours.
