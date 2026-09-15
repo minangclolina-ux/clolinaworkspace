@@ -4,7 +4,7 @@
 **Objectif :** job étudiant / stage / CDD / temps partiel 20-26 h/semaine — 800-900 €/mois — Lille ou remote
 **Source de vérité :** kit de prospection remis le 14/09/2026 (contenu intégralement extrait et exploité ; les PDF du dépôt ont été supprimés à la demande de Cléanne)
 **Démarrage :** 15/09/2026
-**Émetteur réseau :** Calvin Minang (+33 7 52 97 58 09) · **Émettrice cibles entreprises :** Cléanne Minang (+33 7 45 42 93 53)
+**Émetteur kit :** Calvin Minang (+33 7 52 97 58 09) · **Émettrice réseau & cibles :** Cléanne Minang (+33 7 45 42 93 53) — **les messages sont écrits pour Cléanne**
 **Profil :** https://www.linkedin.com/in/cl%C3%A9anne-minang-95772a2b0/
 
 ---
@@ -60,6 +60,26 @@
 |------|---------|---------|------------|----------------|
 | — | — | — | — | — |
 
+
+### 3 bis. RÉSEAU CLÉANNE — 1er degré (82 relations)
+
+Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENVOYER/J1-RESEAU-CLEANNE_2026-09-15.md`
+
+| ID | Date | Contact | Structure / Poste | Canal | Source | Statut | Relance | Réponse |
+|----|------|---------|-------------------|-------|--------|--------|---------|---------|
+| RC-01 | 15/09/2026 | Xavier Chojnicki | Doyen Faculté SESaT — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-02 | 15/09/2026 | Patrick Leleu | Associate Professor — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-03 | 15/09/2026 | Amna Zoghlami | Actuarial Consultant — PwC | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-04 | 15/09/2026 | Roman Delbare | Data Scientist — Cofidis Group | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-05 | 15/09/2026 | Louis Favata | Building @ Usher | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-06 | 15/09/2026 | Hamza Tadir | CX Consultant — Skeepers | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-07 | 15/09/2026 | Claude Fernandes | Partenaire Acquisition de Talents | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-08 | 15/09/2026 | Vincent Duwicquet | Professeur — resp. M2 DEIET — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
+
+**Volume réseau Cléanne :** 82 relations → 10 P1/P2 contactées en J1, 11 P2 en J2, ~16 P3 en J3, le reste (étudiants) en vague de veille.
+
 ---
 
 ## 4. PROCHAINS BATCHS
@@ -99,7 +119,9 @@ Puis PACK MASTER : Nicolas Wilfart (PwC Lille), Maroua Talmoudi (Auchan RH), Aur
 
 Verrouillés dès qu'un envoi est fait (plus jamais recontactés, sauf relance unique J+5/J+6) :
 
-Jean-Marie CHUEPO · Thomas Langlois · Florence Oudin · Maxime Fontaine · Tomasz Hryniuk · Benjamin Pelletier · Charles Fourquin · Selma Mamouri · Grégoire Pelletier · Trâm-Anh Tran
+**Kit (émis par Calvin) :** Jean-Marie CHUEPO · Thomas Langlois · Florence Oudin · Maxime Fontaine · Tomasz Hryniuk · Benjamin Pelletier · Charles Fourquin · Selma Mamouri · Grégoire Pelletier · Trâm-Anh Tran
+
+**Réseau Cléanne (émis par Cléanne) :** Xavier Chojnicki · Patrick Leleu · Amna Zoghlami · Roman Delbare · Louis Favata · Hamza Tadir · Claude Fernandes · Vincent Duwicquet · Robin Jablonski · Alexandre Pessaire
 
 > À mettre à jour après CHAQUE envoi. Vérifier cette liste avant tout envoi.
 
@@ -114,7 +136,8 @@ BNP Paribas Cardif (PACK100 #53) et BNP Paribas Asset Management (PACK100 #60) s
 
 | Jour | Envois | Réponses | Intérêts | Relances | Cumul |
 |------|--------|----------|----------|----------|-------|
-| J1 — 15/09 | 0 / 10 | 0 | 0 | 0 | 0 |
+| J1 — 15/09 (kit, Calvin) | 0 / 10 | 0 | 0 | 0 | 0 |
+| J1 — 15/09 (réseau, Cléanne) | 0 / 10 | 0 | 0 | 0 | 0 |
 | J2 — 16/09 | 0 / 10 | 0 | 0 | 0 | 0 |
 | J3 — 17/09 | 0 / 10 | 0 | 0 | 0 | 0 |
 
