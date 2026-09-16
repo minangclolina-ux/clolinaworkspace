@@ -119,6 +119,27 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-49 | 15/09/2026 | **Hôtellerie** | Ibis / Novotel / Mercure / B&B (Lille, Euralille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-50 | 15/09/2026 | **Université de Lille** | emploi étudiant (BU, accueil, tutorat) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-51 | 15/09/2026 | **Proximité** | Carrefour City / Franprix / Monop' (Lille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-52 | 16/09/2026 | **Sarah MACHI** | Directrice de magasin | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-53 | 16/09/2026 | **Romain TOURNEL** | Responsable de magasin — ALDI France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-54 | 16/09/2026 | **Pierre ELSLANDER** | Manager Magasin — Carrefour Market Lille Gambetta | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-55 | 16/09/2026 | **Samuel TOURY** | Directeur d'hypermarché | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-56 | 16/09/2026 | **Nicolas DE BACKER** | Assistant District Manager — Starbucks Coffee France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-57 | 16/09/2026 | **Rakia CANLER** | Directrice Adjointe | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-58 | 16/09/2026 | **Arthur TREGUIER** | Program Manager — Decathlon Retail Lab (Proshop, running store) | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-59 | 16/09/2026 | **Florian MAES** | Juriste — LOSC Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-60 | 16/09/2026 | **Jade DE SMET** | Conseillère de vente — KYO SHII | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-61 | 16/09/2026 | **Maxime MAIZOU** | Étudiant éco-gestion — Conseiller relations clients — Creatis | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-62 | 16/09/2026 | **Gwenhäelle MARLEUX** | Étudiante master OGC — alternante contrôle interne — AG2R La Mondiale | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-63 | 16/09/2026 | **Anne-Fleur WEESIE** | MSc Business Administration — Brand Activations Coordinator, Publicis Groupe | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-64 | 16/09/2026 | **Lorenzo MEKKID** | Conseiller clientèle en ligne en alternance — BNP Paribas | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-65 | 16/09/2026 | **Fikre WOLDETSADIK** | Coffee quality cupper | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-66 | 16/09/2026 | **Pascal GRANDIN** | Directeur — IAE Lille University School of Management | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-67 | 16/09/2026 | **Claire NAIDITCH** | Professor of Economics — University of Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-68 | 16/09/2026 | **Simon NADEL** | Maître de conférences — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-69 | 16/09/2026 | **Laurent CORDONNIER** | Économiste — enseignant chercheur | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-70 | 16/09/2026 | **Nicolas VITEL** | Enseignant — responsable du master MLISC (logistique / supply chain) — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-71 | 16/09/2026 | **Stéphane GOUNON** | Maître de conférences en droit privé — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-72 | 16/09/2026 | **Loïck TANGE** | Chercheur associé au Clersé — docteur en économie | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 
 **Décision Cléanne (15/09) :** pas de plafond journalier — on pousse la vague jusqu'à 50 envois.
 
