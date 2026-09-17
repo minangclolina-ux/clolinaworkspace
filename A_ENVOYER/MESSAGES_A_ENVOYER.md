@@ -1060,7 +1060,7 @@ Cléanne
 _https://www.linkedin.com/in/anne-fleur-weesie/ — Modèle « demande de contact » : récupère un nom, je te rédige le message d'après._
 
 ```text
-Salut Anne-fleur,
+Salut Anne-Fleur,
 
 J'ai vu que tu travailles sur des activations de marque chez Publicis — les missions événementielles m'intéressent beaucoup.
 
