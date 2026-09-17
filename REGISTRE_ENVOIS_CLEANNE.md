@@ -68,7 +68,7 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 
 | ID | Date | Contact | Structure / Poste | Canal | Source | Statut | Relance | Réponse |
 |----|------|---------|-------------------|-------|--------|--------|---------|---------|
-| RC-01 | 15/09/2026 | Xavier Chojnicki | Doyen Faculté SESaT — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-01 | 15/09/2026 | Xavier Chojnicki | Doyen Faculté SESaT — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-02 | 15/09/2026 | Patrick Leleu | Associate Professor — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-03 | 15/09/2026 | Amna Zoghlami | Actuarial Consultant — PwC | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-04 | 15/09/2026 | Roman Delbare | Data Scientist — Cofidis Group | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
@@ -78,17 +78,17 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-08 | 15/09/2026 | Vincent Duwicquet | Professeur — resp. M2 DEIET — Univ. Lille | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P1) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-13 | 15/09/2026 | **Meryll Poteaux** | Directrice de magasin — Celio | LinkedIn MP (1er degré) | Décideuse directe, retail | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
+| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ❗ NON ENVOYÉ (👍 seul) | 20-21/09 | — |
+| RC-13 | 15/09/2026 | **Meryll Poteaux** | Directrice de magasin — Celio | LinkedIn MP (1er degré) | Décideuse directe, retail | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
+| RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-15 | en réserve | Anthony Bouillé | Directeur Régional SEPHORA (LVMH) | LinkedIn MP (1er degré) | À envoyer SEULEMENT si Marie Meyer ne répond pas avant le 21/09 | 🔒 EN ATTENTE | — | — |
-| RC-16 | 15/09/2026 | Nicolas Ruszczynski | Assistant Co-leader — Kiabi Village | LinkedIn MP (1er degré) | Kiabi : CDI étudiants 13h/16h + CDD 25h | 🏖️ EN CONGÉ | — | — |
+| RC-16 | 15/09/2026 | Nicolas Ruszczynski | Assistant Co-leader — Kiabi Village | LinkedIn MP (1er degré) | Kiabi : CDI étudiants 13h/16h + CDD 25h | 🏖️ EN CONGÉ (répondu) | — | — |
 | RC-17 | 15/09/2026 | **Zineb** | Ex-CDI Primark & JD Sport | WhatsApp / SMS / LinkedIn | Demande de contact interne | ⏳ À ENVOYER | — | — |
 | RC-18 | dès le contact | **Hélène Patou-Frémy** | RH retail — Primark Lille | LinkedIn MP | Recommandée par Zineb | ⏳ ATTENTE CONTACT | — | — |
 | RC-19 | dès le contact | Manager JD Sports | JD Sports Lille (rue de Béthune / Euralille) | LinkedIn MP | Recommandé par Zineb | ⏳ ATTENTE CONTACT | — | — |
-| RC-20 | 15/09/2026 | **Pierre Bouyer** | Directeur de Magasin — KIABI (Lille) | LinkedIn MP (1er degré) | Suivi de candidature : déjà postulé en ligne + CV déposé en magasin (sans citer Nicolas) | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-21 | 15/09/2026 | **Robin Opigez** | Directeur magasin — Carrefour | LinkedIn MP (1er degré, connexion du 15/09) | Grande surface : besoin week-end + soirées, exactement sa dispo | ⏳ À ENVOYER | 20-21/09 | — |
+| RC-20 | 15/09/2026 | **Pierre Bouyer** | Directeur de Magasin — KIABI (Lille) | LinkedIn MP (1er degré) | Suivi de candidature : déjà postulé en ligne + CV déposé en magasin (sans citer Nicolas) | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
+| RC-21 | 15/09/2026 | **Robin Opigez** | Directeur magasin — Carrefour | LinkedIn MP (1er degré, connexion du 15/09) | Grande surface : besoin week-end + soirées, exactement sa dispo | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-22 | en continu | **MODÈLE réseau** | Contacts de Cléanne ayant eu un job étudiant | LinkedIn / WhatsApp | Fiche 25 : demande de contact + recommandation interne | ♻️ MODÈLE | — | — |
 | RC-23 | 15/09/2026 | **ADELINE DUTRY** | Directrice des opérations — McDonald's Greater Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-24 | 15/09/2026 | **JULIEN HULARD** | Directeur de restaurant — McDonald's Lille | LinkedIn (profil nominatif) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
