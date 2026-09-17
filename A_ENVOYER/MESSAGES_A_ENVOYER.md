@@ -5,7 +5,7 @@
 **Règle :** un message par personne, une seule relance à J+5/J+6, et cocher `REGISTRE_ENVOIS_CLEANNE.md`.
 **Contrat :** toujours salarié (CDD, CDI étudiant, intérim, extra). Jamais d'auto-entreprise.
 
-**66 messages.** Ordre : 1. Asmaa (priorité) · 2-17. Décideurs · 18-36. Enseignes (postuler en ligne avant) · 37-54. Contacts et orientation · 55-66. Pairs qui travaillent.
+**72 messages.** Ordre : 1. Asmaa (priorité) · 2-17. Décideurs · 18-36. Enseignes (postuler en ligne avant) · 37-54. Contacts et orientation · 55-66. Pairs qui travaillent.
 
 ---
 ## 1. Asmaa MACHKOUR — Responsable recrutement — Adecco
@@ -1224,4 +1224,105 @@ Est-ce que tu aurais un contact à qui je pourrais m'adresser, ou tu accepterais
 
 Merci beaucoup,
 Cléanne
+```
+## 67. Aslam KHATTABI — MiM emlyon — Chargé d'affaires et Recrutement
+
+_https://www.linkedin.com/in/aslam-khattabi/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Aslam, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Votre titre parle de recrutement : vous voyez donc passer les besoins des entreprises. Connaîtriez-vous une structure qui prend des étudiants en temps partiel sur Lille, ou une personne à qui m'adresser ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
+```
+
+## 68. Lucas VAN CALSTER — Contrôleur de gestion — Cofidis France
+
+_https://www.linkedin.com/in/lucas-van-calster-a84959208/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Lucas, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Cofidis est un des plus gros employeurs de la métropole lilloise. Est-ce que vous sauriez si des postes étudiants ou des CDD courts s'ouvrent, et vers qui je peux m'adresser ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
+```
+
+## 69. Lola TOURBEZ — Compound Manager Outbound Supply Chain — Renault Group
+
+_https://www.linkedin.com/in/lola-tourbez-33ba85267/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Lola, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Vous travaillez sur la supply chain : la logistique et la préparation de commandes recrutent souvent des étudiants en horaires décalés. Est-ce que vous sauriez s'il y a des besoins sur vos sites, ou par quel prestataire il faut passer ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
+```
+
+## 70. Jean-Baptiste ROUSSEL — Chargé de mission territorial — Région Hauts-de-France (M2 EMP)
+
+_https://www.linkedin.com/in/jean-baptiste-roussel-257aa0234/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Jean-Baptiste, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Vous travaillez sur le développement territorial : est-ce que vous connaîtriez des structures du territoire qui prennent des étudiants en temps partiel, ou des dispositifs vers lesquels je pourrais me tourner ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
+```
+
+## 71. Juliette LEGRAND — Demand Planning — CCEP
+
+_https://www.linkedin.com/in/legrand-juliette/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Juliette, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Vous travaillez sur la planification de la demande : les sites logistiques et les entrepôts prennent souvent des étudiants en horaires décalés. Est-ce que vous sauriez s'il y a des besoins autour de vous, ou par quel prestataire passer ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
+```
+
+## 72. Clara EVEN — Senior Trader Digital Media — LVMH / Publicis Media Luxe
+
+_https://www.linkedin.com/in/clara-even-2a250b244/ — Demande de contact : récupère un nom, je te rédige le message d'ouverture._
+
+```text
+Bonjour Clara, merci pour la connexion.
+
+Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
+
+Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
+
+Vous travaillez dans les médias et l'événementiel de luxe : les activations et les opérations spéciales reposent souvent sur des équipes d'accueil en renfort. Est-ce que vous sauriez par quelle agence ou quel prestataire ces profils sont recrutés ?
+
+Bien cordialement,
+Cléanne Minang · 07 45 42 93 53
 ```

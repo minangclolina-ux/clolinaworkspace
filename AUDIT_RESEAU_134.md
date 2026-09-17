@@ -161,3 +161,25 @@ Julien Gonçalves Dos Anjos (président d'asso, Aquitaine) · Sébastien Dereepe
 - **La grande distribution te tend les bras** : Carrefour (x2), ALDI, hypermarché, Kiabi, Celio, Sephora, Primark, Starbucks. Sept enseignes différentes, donc sept décideurs différents : les contacter tous n'est pas redondant.
 - **Ton trou dans le réseau :** personne en intérim à part Asmaa, personne en hôtellerie, personne dans la santé. Ces trois-là restent à prospecter en direct (`CIBLES_50_LILLE.md`).
 
+---
+
+## AJOUT DU 17/09 — 10 relations de plus (144 au total)
+
+| Contact | Poste | Catégorie | Décision |
+|---|---|---|---|
+| **Aslam KHATTABI** | MiM emlyon — Chargé d'affaires et Recrutement | B — Prescripteur | ✉️ Message 67 : son titre parle de recrutement |
+| **Lucas VAN CALSTER** | Contrôleur de gestion — Cofidis France | B — Prescripteur | ✉️ Message 68 : Cofidis, gros employeur lillois |
+| **Lola TOURBEZ** | Compound Manager Supply Chain — Renault Group | B — Prescripteur | ✉️ Message 69 : logistique, horaires décalés |
+| **Jean-Baptiste ROUSSEL** | Chargé de mission territorial — Région HDF | B — Prescripteur | ✉️ Message 70 : collectivités, vacations |
+| **Juliette LEGRAND** | Demand Planning — CCEP | B — Prescripteur | ✉️ Message 71 : encore la logistique |
+| **Clara EVEN** | Senior Trader Digital Media — LVMH / Publicis | B — Prescripteur | ✉️ Message 72 : activations de marque |
+| Timothée MAILLET | Infrastructure Investment — Groupe ADP | E | Aucun lien avec le job étudiant → pas de message |
+| Badreddine ADLI | Consultant SAP | E | Idem → pas de message |
+| Aline FOULON | Profil vide | F | Aucune info → pas de message |
+| Wisal GLOUIB · Josepha MASSENAT · George-Olivier LACOSTE | Étudiants | E | Pas de message |
+| Tom ALLENDER (Ader Finance) · Calvin MINANG | Finance / famille | F | Pas de message |
+
+**Ce qui change :** la **logistique** devient ton deuxième secteur le mieux fourni après la grande distribution (Lola Tourbez chez Renault, Juliette Legrand chez CCEP, Nicolas Vitel à la fac, Gonzague Hamrit chez Ipsen). C'est le secteur qui recrute en horaires décalés et en intérim — exactement ce que tu peux faire.
+
+## Envois confirmés au 17/09
+Asmaa (Adecco) · Nicolas De Backer (Starbucks) · Sarah Machi · Romain Tournel (ALDI) · Pierre Elslander (Carrefour Gambetta) · Samuel Toury (hypermarché) · Rakia Canler · + Robin Opigez, Pierre Bouyer, Marie Meyer, Meryll Poteaux, Aurélie Martin-Cassette, Xavier Chojnicki (15/09).

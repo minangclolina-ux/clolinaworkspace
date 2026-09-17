@@ -79,7 +79,7 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
-| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ❗ NON ENVOYÉ (👍 seul) | 20-21/09 | — |
+| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
 | RC-13 | 15/09/2026 | **Meryll Poteaux** | Directrice de magasin — Celio | LinkedIn MP (1er degré) | Décideuse directe, retail | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-15 | en réserve | Anthony Bouillé | Directeur Régional SEPHORA (LVMH) | LinkedIn MP (1er degré) | À envoyer SEULEMENT si Marie Meyer ne répond pas avant le 21/09 | 🔒 EN ATTENTE | — | — |
@@ -119,12 +119,12 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-49 | 15/09/2026 | **Hôtellerie** | Ibis / Novotel / Mercure / B&B (Lille, Euralille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-50 | 15/09/2026 | **Université de Lille** | emploi étudiant (BU, accueil, tutorat) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-51 | 15/09/2026 | **Proximité** | Carrefour City / Franprix / Monop' (Lille) | LinkedIn (message prêt + filtre) | Vague 2 — job étudiant, dispo week-end + soirées | ⏳ À ENVOYER | 20-21/09 | — |
-| RC-52 | 16/09/2026 | **Sarah MACHI** | Directrice de magasin | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-53 | 16/09/2026 | **Romain TOURNEL** | Responsable de magasin — ALDI France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-54 | 16/09/2026 | **Pierre ELSLANDER** | Manager Magasin — Carrefour Market Lille Gambetta | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-55 | 16/09/2026 | **Samuel TOURY** | Directeur d'hypermarché | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-56 | 16/09/2026 | **Nicolas DE BACKER** | Assistant District Manager — Starbucks Coffee France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-57 | 16/09/2026 | **Rakia CANLER** | Directrice Adjointe | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-52 | 16/09/2026 | **Sarah MACHI** | Directrice de magasin | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-53 | 16/09/2026 | **Romain TOURNEL** | Responsable de magasin — ALDI France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-54 | 16/09/2026 | **Pierre ELSLANDER** | Manager Magasin — Carrefour Market Lille Gambetta | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-55 | 16/09/2026 | **Samuel TOURY** | Directeur d'hypermarché | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-56 | 16/09/2026 | **Nicolas DE BACKER** | Assistant District Manager — Starbucks Coffee France | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-57 | 16/09/2026 | **Rakia CANLER** | Directrice Adjointe | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
 | RC-58 | 16/09/2026 | **Arthur TREGUIER** | Program Manager — Decathlon Retail Lab (Proshop, running store) | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-59 | 16/09/2026 | **Florian MAES** | Juriste — LOSC Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-60 | 16/09/2026 | **Jade DE SMET** | Conseillère de vente — KYO SHII | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
@@ -140,6 +140,12 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-70 | 16/09/2026 | **Nicolas VITEL** | Enseignant — responsable du master MLISC (logistique / supply chain) — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-71 | 16/09/2026 | **Stéphane GOUNON** | Maître de conférences en droit privé — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-72 | 16/09/2026 | **Loïck TANGE** | Chercheur associé au Clersé — docteur en économie | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
+| RC-73 | 17/09/2026 | **Aslam KHATTABI** | MiM emlyon — Chargé d'affaires et Recrutement | LinkedIn MP (1er degré, 17/09) | Titre = recrutement : il voit passer les besoins | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-74 | 17/09/2026 | **Lucas VAN CALSTER** | Contrôleur de gestion — Cofidis France | LinkedIn MP (1er degré, 17/09) | Cofidis = gros employeur lillois, centre de relation client | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-75 | 17/09/2026 | **Lola TOURBEZ** | Compound Manager Supply Chain — Renault Group | LinkedIn MP (1er degré, 17/09) | Logistique : horaires décalés, souvent intérim | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-76 | 17/09/2026 | **Jean-Baptiste ROUSSEL** | Chargé de mission territorial — Région HDF | LinkedIn MP (1er degré, 17/09) | Collectivités : vacations et emplois saisonniers | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-77 | 17/09/2026 | **Juliette LEGRAND** | Demand Planning — CCEP | LinkedIn MP (1er degré, 17/09) | Encore une porte d'entrée logistique | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-78 | 17/09/2026 | **Clara EVEN** | Senior Trader Digital Media — LVMH / Publicis | LinkedIn MP (1er degré, 17/09) | Activations de marque : missions soirs et week-ends | ⏳ À ENVOYER | 22-23/09 | — |
 
 **Décision Cléanne (15/09) :** pas de plafond journalier — on pousse la vague jusqu'à 50 envois.
 
