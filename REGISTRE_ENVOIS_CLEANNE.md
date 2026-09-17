@@ -79,7 +79,7 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-09 | 15/09/2026 | Robin Jablonski | Auditeur Financier | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-10 | 15/09/2026 | Alexandre Pessaire | Entrepreneur — CEO Kubeko | LinkedIn MP (1er degré) | RÉSEAU CLÉANNE (P2) | ⏳ À ENVOYER | 20-21/09 | — |
 | RC-11 | 15/09/2026 | **Marie Meyer** | Directrice flagship SEPHORA — Lille | LinkedIn MP (1er degré) | RELANCE CV déposé en magasin il y a 1 mois | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
-| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-12 | 15/09/2026 | **Asmaa Machkour** | Responsable recrutement — Adecco France | LinkedIn MP (1er degré) | INTÉRIM = salarié, chemin le plus court vers un salaire | ❗ À RENVOYER (👍 seul) | 22-23/09 | — |
 | RC-13 | 15/09/2026 | **Meryll Poteaux** | Directrice de magasin — Celio | LinkedIn MP (1er degré) | Décideuse directe, retail | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-14 | 15/09/2026 | **Aurélie Martin-Cassette** | Professeur des universités en économie | LinkedIn MP (1er degré) | Emplois étudiants fac + réseau | ✅ ENVOYÉ (15/09) | 20-21/09 | — |
 | RC-15 | en réserve | Anthony Bouillé | Directeur Régional SEPHORA (LVMH) | LinkedIn MP (1er degré) | À envoyer SEULEMENT si Marie Meyer ne répond pas avant le 21/09 | 🔒 EN ATTENTE | — | — |
@@ -140,12 +140,19 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-70 | 16/09/2026 | **Nicolas VITEL** | Enseignant — responsable du master MLISC (logistique / supply chain) — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-71 | 16/09/2026 | **Stéphane GOUNON** | Maître de conférences en droit privé — Université de Lille | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
 | RC-72 | 16/09/2026 | **Loïck TANGE** | Chercheur associé au Clersé — docteur en économie | LinkedIn MP (1er degré) | AUDIT RÉSEAU — décideur / prescripteur | ⏳ À ENVOYER | 21-22/09 | — |
-| RC-73 | 17/09/2026 | **Aslam KHATTABI** | MiM emlyon — Chargé d'affaires et Recrutement | LinkedIn MP (1er degré, 17/09) | Titre = recrutement : il voit passer les besoins | ⏳ À ENVOYER | 22-23/09 | — |
-| RC-74 | 17/09/2026 | **Lucas VAN CALSTER** | Contrôleur de gestion — Cofidis France | LinkedIn MP (1er degré, 17/09) | Cofidis = gros employeur lillois, centre de relation client | ⏳ À ENVOYER | 22-23/09 | — |
-| RC-75 | 17/09/2026 | **Lola TOURBEZ** | Compound Manager Supply Chain — Renault Group | LinkedIn MP (1er degré, 17/09) | Logistique : horaires décalés, souvent intérim | ⏳ À ENVOYER | 22-23/09 | — |
-| RC-76 | 17/09/2026 | **Jean-Baptiste ROUSSEL** | Chargé de mission territorial — Région HDF | LinkedIn MP (1er degré, 17/09) | Collectivités : vacations et emplois saisonniers | ⏳ À ENVOYER | 22-23/09 | — |
-| RC-77 | 17/09/2026 | **Juliette LEGRAND** | Demand Planning — CCEP | LinkedIn MP (1er degré, 17/09) | Encore une porte d'entrée logistique | ⏳ À ENVOYER | 22-23/09 | — |
-| RC-78 | 17/09/2026 | **Clara EVEN** | Senior Trader Digital Media — LVMH / Publicis | LinkedIn MP (1er degré, 17/09) | Activations de marque : missions soirs et week-ends | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-73 | 17/09/2026 | **Aslam KHATTABI** | MiM emlyon — Chargé d'affaires et Recrutement | LinkedIn MP (1er degré, 17/09) | Titre = recrutement : il voit passer les besoins | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-74 | 17/09/2026 | **Lucas VAN CALSTER** | Contrôleur de gestion — Cofidis France | LinkedIn MP (1er degré, 17/09) | Cofidis = gros employeur lillois, centre de relation client | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-75 | 17/09/2026 | **Lola TOURBEZ** | Compound Manager Supply Chain — Renault Group | LinkedIn MP (1er degré, 17/09) | Logistique : horaires décalés, souvent intérim | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-76 | 17/09/2026 | **Jean-Baptiste ROUSSEL** | Chargé de mission territorial — Région HDF | LinkedIn MP (1er degré, 17/09) | Collectivités : vacations et emplois saisonniers | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-77 | 17/09/2026 | **Juliette LEGRAND** | Demand Planning — CCEP | LinkedIn MP (1er degré, 17/09) | Encore une porte d'entrée logistique | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-78 | 17/09/2026 | **Clara EVEN** | Senior Trader Digital Media — LVMH / Publicis | LinkedIn MP (1er degré, 17/09) | Activations de marque : missions soirs et week-ends | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+
+**POINT AU 17/09 (d'après ta boîte de réception) :**
+
+- **18 messages envoyés** : les 6 du 17/09 (Aslam, Lucas Van Calster, Lola, Jean-Baptiste, Juliette, Clara) + les 5 du 17/09 matin (Nicolas De Backer, Sarah Machi, Romain Tournel, Pierre Elslander, Samuel Toury, Rakia Canler) + les 6 du 15/09 (Robin Opigez, Pierre Bouyer, Aurélie Martin-Cassette, Meryll Poteaux, Marie Meyer, Xavier Chojnicki).
+- **1 à renvoyer** : Asmaa MACHKOUR (Adecco) — seul un 👍 est parti le 17/09 à 11:38. C'est la priorité absolue.
+- **Relances** : les messages du 15/09 → le 20 ou 21/09 ; ceux du 17/09 → le 22 ou 23/09.
+- **En attente** : Jean-Marie CHUEPO (voir si un vrai message lui a été envoyé, il ne reste qu'un objet) ; Antoine JEANNE te demande une réponse depuis le 24 juillet.
 
 **Décision Cléanne (15/09) :** pas de plafond journalier — on pousse la vague jusqu'à 50 envois.
 
