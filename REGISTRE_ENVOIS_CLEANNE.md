@@ -146,6 +146,20 @@ Messages **écrits et envoyés par Cléanne** (pas par Calvin). Fichier : `A_ENV
 | RC-76 | 17/09/2026 | **Jean-Baptiste ROUSSEL** | Chargé de mission territorial — Région HDF | LinkedIn MP (1er degré, 17/09) | Collectivités : vacations et emplois saisonniers | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
 | RC-77 | 17/09/2026 | **Juliette LEGRAND** | Demand Planning — CCEP | LinkedIn MP (1er degré, 17/09) | Encore une porte d'entrée logistique | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
 | RC-78 | 17/09/2026 | **Clara EVEN** | Senior Trader Digital Media — LVMH / Publicis | LinkedIn MP (1er degré, 17/09) | Activations de marque : missions soirs et week-ends | ✅ ENVOYÉ (17/09) | 22-23/09 | — |
+| RC-79 | 17/09/2026 | **Zineb OUAZIZ** | Ex-CDI Primark & JD Sports | LinkedIn MP / WhatsApp (1er degré) | PRIORITÉ : la recommandation la plus chaude du réseau | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-80 | 17/09/2026 | **Axele LEBLANC** | Gestionnaire fiscal — DGFiP | LinkedIn MP (1er degré) | Administration : vacations, contrats courts | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-81 | 17/09/2026 | **Étienne REVEL** | Chef de projet — Crédit Agricole CIB | LinkedIn MP (1er degré) | Appui administratif / support | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-82 | 17/09/2026 | **Marine LEMARCHAND** | Contrôleuse de gestion — Depaeuw | LinkedIn MP (1er degré) | Appui administratif en PME | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-83 | 17/09/2026 | **Maxime LUTUN** | Contrôleur de gestion | LinkedIn MP (1er degré) | Appui administratif | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-84 | 17/09/2026 | **Louis BROTCORNE** | Contrôleur de gestion sociale | LinkedIn MP (1er degré) | Appui administratif | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-85 | 17/09/2026 | **Anouar OUNI** | Finance & assurance — Groupama | LinkedIn MP (1er degré) | Gestion de dossiers / intérim | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-86 | 17/09/2026 | **Alex JASPIERRE** | Alternant contrôle de gestion — Lear | LinkedIn MP (1er degré) | Renforts horaires décalés | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-87 | 17/09/2026 | **Agathe BROSSEAU** | Assistante chef de produit — Hortense | LinkedIn MP (1er degré) | Appui / enseignes qui recrutent | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-88 | 17/09/2026 | **Fabien GROSSEL** | Assistant CGP — Investimium | LinkedIn MP (1er degré) | Appui administratif cabinet | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-89 | 17/09/2026 | **Victor VILLEDIEU** | Assistant gestion de patrimoine | LinkedIn MP (1er degré) | Appui administratif cabinet | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-90 | 17/09/2026 | **Yassin OUATTOU** | Alternant — Flandre Assurances | LinkedIn MP (1er degré) | Renfort étudiant | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-91 | 17/09/2026 | **Stefano ORIHUELA** | Alternant contrôle de gestion | LinkedIn MP (1er degré) | Appui administratif | ⏳ À ENVOYER | 22-23/09 | — |
+| RC-92 | 17/09/2026 | **Zakarias CARTIGNY** | Sales-trader — Aurel BGC | LinkedIn MP (1er degré) | Contact / orientation | ⏳ À ENVOYER | 22-23/09 | — |
 
 **POINT AU 17/09 (d'après ta boîte de réception) :**
 
