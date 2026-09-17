@@ -585,7 +585,7 @@ _**Postule en ligne AVANT d'envoyer :** https://fr.indeed.com/jobs?q=cin%C3%A9ma
 ```text
 Bonjour [Prénom],
 
-J'ai déposé ma candidature en ligne sur le site de votre cinéma, et je me permets de vous écrire pour en parler directement.
+J'ai déposé ma candidature en ligne sur le site du cinéma, et je me permets de vous écrire pour en parler directement.
 
 Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
 
@@ -623,7 +623,7 @@ _**Postule en ligne AVANT d'envoyer :** https://www.ij-hdf.fr/actualite/1172/emp
 ```text
 Bonjour [Prénom],
 
-J'ai déposé ma candidature en ligne sur le site de Actual Events, et je me permets de vous écrire pour en parler directement.
+J'ai déposé ma candidature en ligne sur le site d'Actual Events, et je me permets de vous écrire pour en parler directement.
 
 Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
 
@@ -642,7 +642,7 @@ _**Postule en ligne AVANT d'envoyer :** https://careers.accor.com/ — Petits-d�
 ```text
 Bonjour [Prénom],
 
-J'ai déposé ma candidature en ligne sur le site de Accor, et je me permets de vous écrire pour en parler directement.
+J'ai déposé ma candidature en ligne sur le site d'Accor, et je me permets de vous écrire pour en parler directement.
 
 Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherche un job étudiant d'environ 20h par semaine.
 
@@ -907,7 +907,7 @@ Je suis étudiante en L3 Économie-Gestion à l'Université de Lille et je cherc
 
 Je suis libre le week-end (samedi et dimanche), ainsi que les après-midis et soirées en semaine selon vos besoins. Je peux démarrer rapidement et m'engager sur toute l'année.
 
-Vous responsable du master logistique : les entrepôts et la préparation de commandes recrutent souvent des étudiants en horaires décalés. Auriez-vous des entreprises partenaires qui en prennent, ou une personne vers qui m'orienter ?
+Vous êtes responsable du master logistique : les entrepôts et la préparation de commandes recrutent souvent des étudiants en horaires décalés. Auriez-vous des entreprises partenaires qui en prennent, ou une personne vers qui m'orienter ?
 
 Bien cordialement,
 Cléanne Minang · 07 45 42 93 53
